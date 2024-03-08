@@ -1,12 +1,12 @@
+:root {
+  --custom-color: #af4c64;
+  --custom-lightcolor: #bf6f83;
+}
+
 html,
 body,
 #app {
   height: 100vh;
-}
-
-:root {
-  --custom-color: #af4c64;
-  --custom-lightcolor: #bf6f83;
 }
 
 .bg-custom {
